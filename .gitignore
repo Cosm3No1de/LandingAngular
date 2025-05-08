@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Node modules
+=======
+# See https:# Node modules
+>>>>>>> ddec84b6da1a03a2e6de5050558a4c4847d68416
 /node_modules/
 
 # Build output
@@ -45,3 +49,7 @@ yarn.lock
 *.bak
 *.swp
 *.tmp
+<<<<<<< HEAD
+=======
+
+>>>>>>> ddec84b6da1a03a2e6de5050558a4c4847d68416
