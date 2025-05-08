@@ -3,7 +3,7 @@
 ¡Bienvenido/a a mi portafolio desarrollado con Angular!  
 Aquí muestro quién soy, mis proyectos, y cómo contactarme para posibles oportunidades laborales o colaboraciones.
 
-![Vista previa](src/assets/screenshot.png)
+![Vista previa](src/assets/portadapp.png)
 
 ## 🚀 Tecnologías utilizadas
 
